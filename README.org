@@ -1,0 +1,10 @@
+* croatoan
+
+Common Lisp bindings for the ncurses terminal library.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/McParen/croatoan.git   |
+| commit  | 3518716  |
+| systems | croatoan |
+|---------+-------------------------------------------|
+
