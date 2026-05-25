@@ -4,7 +4,7 @@ Common Lisp bindings for the ncurses terminal library.
 
 |---------+-----------------------------------------------|
 | source  | git:https://codeberg.org/McParen/croatoan.git |
-| commit  | 4700557                                       |
+| commit  | 49d03ab                                       |
 | systems | croatoan croatoan-ncurses ansi-escape         |
 |---------+-----------------------------------------------|
  
